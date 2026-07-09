@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "namealreadyexistsz.aternos.me",
-    "port": 62819,
+    "ip": "lucas.mcsh.io",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 60,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a stupid bot",
+        "Donate Kim Khoa",
+        "I like to be a bot btw"
       ]
     },
     "chat-log": true,
