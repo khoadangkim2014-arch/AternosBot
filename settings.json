@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "stupidbot67",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "lucas.mcsh.io",
+    "ip": "15.235.145.240:14684",
     "port": 25565,
     "version": "1.21.11",
     "try-creative": false
